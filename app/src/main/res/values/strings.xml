@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ISS</string>
+    <string name="permission_required">Permission required</string>
+    <string name="location_permission_granted">Location permission granted</string>
+    <string name="location_permission_msg">Application needs device location to calculate distance to International Space Station</string>
+    <string name="ok">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_permission_denied_msg">User permanently denied Location permission before. Please go to device Settings -> App -> ISS -> Permissions and enable Location permission to use this app</string>
+    <string name="request_location_permission">Request Location Permission</string>
+    <string name="device_location">Device location</string>
+    <string name="iss_location">ISS location</string>
+    <string name="timestamp">Timestamp: %1$d</string>
+    <string name="latitude">Latitude: %1$f</string>
+    <string name="longitude">Longitude: %1$f</string>
+    <string name="iss_distance_in_miles">ISS is %1$s miles away</string>
+    <string name="craft_name">Craft: %1$s</string>
+    <string name="astronaut_name">Name: %1$s</string>
+    <string name="view_iss_location_on_map">View ISS location on map</string>
+    <string name="show_iss_location_history">Show ISS location history</string>
+    <string name="unable_to_view_location">Unable to view location on Google maps</string>
+    <string name="astronauts">Astronauts</string>
+    <string name="no_iss_locations_in_db">No ISS locations history found in the local database</string>
+    <string name="iss_locations_history">ISS locations history</string>
+</resources>
